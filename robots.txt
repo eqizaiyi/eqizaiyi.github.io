@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqizaiyi.github.io/CIB/sitemap_index.txt
+Sitemap: https://eqizaiyi.github.io/KRe/sitemap_index.txt
+Sitemap: https://eqizaiyi.github.io/Naw/sitemap_index.txt
+Sitemap: https://eqizaiyi.github.io/xop/sitemap_index.txt
